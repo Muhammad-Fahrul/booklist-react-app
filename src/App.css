@@ -1,0 +1,24 @@
+h1 {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-inline: auto;
+}
+
+h1 span {
+    color: rgb(33, 137, 141);
+}
+
+.alert-message {
+    text-transform: capitalize;
+    padding: 0.5em;
+    color: white;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-red {
+    background-color: red;
+}
